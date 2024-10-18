@@ -15,7 +15,7 @@ blueprint:
     notification:
       name: Notification
       description:
-        'Select "true" to disable notification, lave "false" to receive
+        'Select "true" to disable notification, leave "false" to receive
         notification.
         '
       selector:
